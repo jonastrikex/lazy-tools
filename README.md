@@ -25,8 +25,8 @@ This repository serves as a modular toolkit for ethical hacking and pentesting w
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/jonastrikex/](https://github.com/jonastrikex/)<REPO_NAME>.git
-   cd <REPO_NAME>
+   git clone https://github.com/jonastrikex/lazy-tools 
+   cd lazy-tools
    ```
 
 2. **Make bash scripts executable:**
